@@ -1504,7 +1504,7 @@ msgstr "启动软中断"
 
 #, fuzzy
 msgid "Enable typographer support"
-msgstr "启用 Fountain 语法支持"
+msgstr "启用排版支持"
 
 msgid "Enable math expressions"
 msgstr "启用数学表达式"
@@ -1711,7 +1711,7 @@ msgstr "加密状态："
 
 #, fuzzy
 msgid "Web Clipper"
-msgstr "网页剪辑选项"
+msgstr "网页剪藏"
 
 #, javascript-format
 msgid "The tag \"%s\" already exists. Please choose a different name."
