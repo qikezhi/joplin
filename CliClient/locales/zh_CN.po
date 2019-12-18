@@ -653,7 +653,7 @@ msgid "Toggle sidebar"
 msgstr "切换边栏"
 
 msgid "Layout button sequence"
-msgstr ""
+msgstr "布局按钮排序"
 
 #, fuzzy
 msgid "Toggle note list"
@@ -787,7 +787,7 @@ msgid ""
 msgstr "该授权令牌仅用于允许第三方应用程序访问 Joplin。"
 
 msgid "This will open a new screen. Save your current changes?"
-msgstr ""
+msgstr "打开新窗口前，是否保存当前笔记"
 
 #, javascript-format
 msgid "Notes and settings are stored in: %s"
@@ -890,13 +890,13 @@ msgid "Encryption is:"
 msgstr "加密状态："
 
 msgid "Firefox Extension"
-msgstr ""
+msgstr "Firefox扩展"
 
 msgid "Chrome Web Store"
-msgstr ""
+msgstr "Chrome网上商店"
 
 msgid "Get it now:"
-msgstr ""
+msgstr "现在获取"
 
 msgid "Usage"
 msgstr "用法提示"
@@ -1351,17 +1351,17 @@ msgstr ""
 "有文件！ 更多详细信息请参阅常见问题解答（FAQ）：%s"
 
 msgid "Keyboard Mode"
-msgstr ""
+msgstr "键盘模式"
 
 #, fuzzy
 msgid "Default"
 msgstr "默认值: %s"
 
 msgid "Emacs"
-msgstr ""
+msgstr "Emacs编辑器"
 
 msgid "Vim"
-msgstr ""
+msgstr "Vim编辑器"
 
 msgid "Synchronisation target"
 msgstr "同步目标"
@@ -1531,7 +1531,7 @@ msgid "Enable abbreviation syntax"
 msgstr "启用缩写句法"
 
 msgid "Enable markdown emoji"
-msgstr "启用 markdown emoji"
+msgstr "启用 markdown 表情"
 
 msgid "Enable ++insert++ syntax"
 msgstr "启用 ++insert++ 句法"
@@ -1567,10 +1567,10 @@ msgstr "编辑器字体大小"
 
 #, fuzzy
 msgid "Editor font"
-msgstr "编辑器字体大小"
+msgstr "编辑器字体"
 
 msgid "Editor font family"
-msgstr "编辑器字体"
+msgstr "编辑器字体表"
 
 msgid ""
 "This must be *monospace* font or it will not work properly. If the font is "
@@ -1618,31 +1618,31 @@ msgid "Page size for PDF export"
 msgstr "PDF导出时的页面规格"
 
 msgid "A4"
-msgstr ""
+msgstr "A4"
 
 msgid "Letter"
-msgstr ""
+msgstr "信纸"
 
 msgid "A3"
-msgstr ""
+msgstr "A3"
 
 msgid "A5"
-msgstr ""
+msgstr "A5"
 
 msgid "Tabloid"
-msgstr ""
+msgstr "小报"
 
 msgid "Legal"
-msgstr ""
+msgstr "分类帐"
 
 msgid "Page orientation for PDF export"
-msgstr ""
+msgstr "PDF导出时的页面方向"
 
 msgid "Portrait"
-msgstr ""
+msgstr "竖向"
 
 msgid "Landscape"
-msgstr ""
+msgstr "横向"
 
 msgid "Custom TLS certificates"
 msgstr "自定义 TLS 证书"
@@ -1663,7 +1663,8 @@ msgstr "忽略 TLS 证书错误"
 msgid ""
 "Fail-safe: Do not wipe out local data when sync target is empty (often the "
 "result of a misconfiguration or bug)"
-msgstr ""
+msgstr "故障防护：当同步目标位置为空时，请勿清除本地数据（通常由
+     配置错误或bug导致)"
 
 msgid ""
 "Specify the port that should be used by the API server. If not set, a "
